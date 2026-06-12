@@ -2,10 +2,13 @@
 # Olá, bem-vindo ao meu site!
 
 Contatos:  
-[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com)<br>
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com)<br>
 
-<p align="left"><a href=" https://github.com/jamesson-gomes/jamesson-gomes" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a><a href="www.linkedin.com/in/jamesson-gomes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a><a href="jamesson.usaf@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com)"/></a></p>
+
+
+</a>
+
+</p>
 
 
 # Resumo
