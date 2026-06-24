@@ -1,5 +1,5 @@
 
-# Olá, bem-vindo ao meu site!
+# Olá, Bem-Vindos!
 
 Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes) 
@@ -8,15 +8,27 @@ Contatos:
  
 
 
-## Projetos
-- [IBAMA](https://github.com/jamessonGIT/Ibama)
 
-## Sobre mim
+## Sobre mim:
 - Interesses: Ciência de Dados, Geotecnologias e Meio Ambiente.
 <div align="justify">
 
 Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Mineração, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Egine, . Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory, Databricks e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
 </div>
+
+## Projetos:
+
+<div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: 300px;">
+      <img src="img/dashboard.jpg" alt="Dashboard Ambiental" style="width:100%; height:180px; object-fit:cover;">
+      <div style="padding: 15px;">
+        <h3>📊 Dashboard de Dados Ambientais IBAMA</h3>
+        <p>Painel interativo para análise de dados climáticos.</p>
+        <p><strong>Tecnologias:</strong> Power BI, Python, SQL</p>
+        <a href="https://github.com/jamessonGIT/Ibama">🔗 Ver projeto</a>
+      </div>
+  </div>
+
+
 
 ## 🎓 Formação
 * **Pós-graduado em Ciência de Dados/Faculdade Metroplitana** (2022).
