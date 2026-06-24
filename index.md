@@ -15,7 +15,7 @@ Contatos:
 
 Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Mineração, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory, Databricks e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
 </div>
-
+<br>
 ## Projetos:
 
 <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: 300px;">
@@ -37,6 +37,7 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 
 
 ## 💼 Experiência Profissional
+
 ### Instituto Tecnológico Vale - Belém/PA (2025 - 2026).
 <div align="justify">
   
@@ -44,8 +45,8 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 Pesquisa interdisciplinar direcionada para a integração e a extração de conhecimento de conjuntos de dados nas áreas Meteorologia e Mudança do Clima, Recuperação Ambiental, Genômica Ambiental, Geologia Ambiental e Recursos Hídricos, Biodiversidade e Socioeconomia. Proficiência em Python para análise de dados com bibliotecas (Pandas, Scikit-learn, Keras, XGBoost) e SQL para manipulação de grandes volumes de dados.<br>
 Resultados: Extração de insights e padrões preditivos de grandes conjuntos de dados através da padronização dos processos para captura e armazenamento de dados através do desenvolvimento de aplicações de metadados como o Anotai hospedada em servidores Azure e integração de busca textuais com o Elasticsearch.
 </div>
-
-### Superintendência de Vigilância Epidemiológica São Luís/MA 2024 – 2025.
+<br>
+### Superintendência de Vigilância Epidemiológica São Luís/MA (2024 – 2025).
 
 <div align="justify">
 
@@ -53,8 +54,8 @@ Resultados: Extração de insights e padrões preditivos de grandes conjuntos de
 Responsável pela análise de indicadores relacionados ao SUS e Vigilância em Saúde e Meio Ambiente, oferecendo suporte no desenvolvimento e implantação de aplicações Low-Code a partir do monitoramento de diversas bases de dados vinculadas a recursos hídricos, níveis pluviométricos, contaminação do solo e do ar na cidade de São Luís - MA. Além de conhecer e implementar as melhores técnicas de estruturação e manipulação de dados a orquestração de pipelines para criação de Data Lakes Data Warehouses e modelos de dados, a fim de melhorar a confiabilidade e qualidade de processos de Data Driven.<br>
 Resultados: Criação de painéis de visualização de dados com Power BI e Looker Studio, de forma clara e intuitiva com informações e indicadores relevantes para os usuários finais.
 </div>
-
-### SSP São Luís/MA 2014 – 2023.
+<br>
+### SSP São Luís/MA (2014 – 2023).
 
 <div align="justify">
 
