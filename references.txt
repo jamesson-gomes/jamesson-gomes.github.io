@@ -1,5 +1,7 @@
 https://docs.github.com/pt/pages/quickstart
 
+https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site
+
 Por padrão, o título do site é username.github.io. 
 
 Altere o título editando o arquivo _config.yml no repositório. 
