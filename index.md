@@ -21,12 +21,14 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: 300px;">
       <img src="img/dashboard.jpg" alt="Dashboard Ambiental" style="width:100%; height:180px; object-fit:cover;">
       <div style="padding: 15px;">
-        <h3>📊 Dashboard de Dados Ambientais IBAMA</h3>
+        <h3>📊 Dashboard de Dados Ambientais-IBAMA</h3>
         <p>Painel interativo para análise de dados climáticos.</p>
-        <p><strong>Tecnologias:</strong> Power BI, Python, SQL</p>
+        <p><strong>Tecnologias:</strong> QGIs, Python, SQL</p>
         <a href="https://github.com/jamessonGIT/Ibama">🔗 Ver projeto</a>
+      </div>  <div style="padding: 15px;">
+        <h3>  🌎 Mapas na escola</h3>
       </div>
-  </div>
+ </div>
 <br>
 
 ## 🎓 Formação
