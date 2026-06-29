@@ -7,8 +7,6 @@ Contatos:
 [![research](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamesson-Gomes)
  
 
-
-
 ## Sobre mim:
 - Interesses: Ciência de Dados, Geotecnologias e Meio Ambiente.
 <div align="justify">
@@ -16,6 +14,13 @@ Contatos:
 Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Mineração, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory, Databricks e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
 </div>
 <br>
+
+## 🚀 Tecnologias e Ferramentas.
+
+| Linguagens | A.I. | Ferramentas  |
+| ---------- | -------------- | ----------- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) [![Firebase Studio](https://custom-icon-badges.demolab.com/badge/Firebase%20Studio-F66C21?logo=firebase-studio&logoColor=fff)](#)|
+
 ## Projetos:
 
 <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: 300px;">
