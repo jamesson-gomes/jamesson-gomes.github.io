@@ -15,7 +15,7 @@ Com mais de 10 anos de experiÃªncia em projetos de diferentes segmentos de atuaÃ
 </div>
 <br>
 
-##  Tecnologias e Ferramentas.
+##  Tecnologias e Ferramentas:
 
 | Linguagens | A.I. | Ferramentas  |
 | ---------- | -------------- | ----------- |
