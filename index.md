@@ -21,7 +21,7 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 | ---------- | -------------- | ----------- |
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) |
 
-## 🚀 Projetos:
+<!-- ## 🚀 Projetos:
 
 <div style="border: 1px solid #ddd; border-radius: 10px; overflow: hidden; width: 300px;">
       <img src="img/dashboard.jpg" alt="Dashboard Ambiental" style="width:100%; height:180px; object-fit:cover;">
@@ -35,7 +35,7 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
       </div>
  </div>
 <br>
-
+-->
 ## 🎓 Formação
 * **Pós-graduado em Ciência de Dados/Faculdade Metroplitana** (2022).
 * **Bacharel em Ciência da Computação/UFMA** (2016).
@@ -69,7 +69,7 @@ Resultados: Criação de painéis de visualização de dados com Power BI e Look
 Resultados: Capacidade de realizar análises rápidas, escrever consultas complexas e realizar operações de transformação nos dados para atender às necessidades específicas de relatórios e análises.<br><br>
 </div>
 
-##  Estatísticas do perfil:
+<!--##  Estatísticas do perfil:
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamessonGIT&theme=solarized_dark)](#)
 
@@ -77,3 +77,4 @@ Resultados: Capacidade de realizar análises rápidas, escrever consultas comple
 <div align="center">
 
 </div>
+-->
