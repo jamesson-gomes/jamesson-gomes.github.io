@@ -69,12 +69,12 @@ Resultados: Criação de painéis de visualização de dados com Power BI e Look
 Resultados: Capacidade de realizar análises rápidas, escrever consultas complexas e realizar operações de transformação nos dados para atender às necessidades específicas de relatórios e análises.<br><br>
 </div>
 
-<!--##  Estatísticas do perfil:
+##  Estatísticas do perfil:
 
-[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamessonGIT&theme=solarized_dark)](#)
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamesson-gomes&theme=solarized_dark)](#)
 
 <br>
 <div align="center">
 
 </div>
--->
+
