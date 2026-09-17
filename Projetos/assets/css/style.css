@@ -1,0 +1,23 @@
+/* Botão principal */
+a.cta-button {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #0078D4;
+  color: #fff;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+/* Layout split-screen */
+.split-screen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.split-screen div {
+  flex: 1;
+  padding: 2rem;
+}
