@@ -1,4 +1,13 @@
-
+<div style="display: flex; align-items: center; justify-content: center; height: 80vh;">
+  <div style="flex: 1; padding: 2rem;">
+    <h1>Jamesson Gomes</h1>
+    <p>Data & Design Specialist apaixonado por experiências digitais.</p>
+    <a href="#portfolio" style="display: inline-block; padding: 0.75rem 1.5rem; background-color: #0078D4; color: white; border-radius: 6px; text-decoration: none;">Explore Work</a>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="/assets/images/profile.jpg" alt="Jamesson Gomes" style="max-width: 80%; border-radius: 8px;">
+  </div>
+</div>
 # Olá, bem-vindo ao meu site!
 
 Contatos:  
