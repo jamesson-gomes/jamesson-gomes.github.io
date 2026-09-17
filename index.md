@@ -75,7 +75,7 @@ Resultados: Criação de painéis de visualização de dados com Power BI e Look
 <div align="justify">
 
 - Analista de Dados/Administrativo, acompanhamento de processos administrativos e demais rotinas de Departamento Pessoal, além de ter desenvolvido aplicações para publicação de relatórios estatísticos, informativos no período de 2014 a 2019. Analista de Dados com experiência na elaboração de relatórios, monitoramento de indicadores, extração de dados via sistemas desde 2019, com diversas ferramentas como: Power BI, Power Apps, Excel – Avançado (Power Query e Power Pivot) e demais soluções do Azure.  <br><br>
-Resultados: Capacidade de realizar análises rápidas, escrever consultas complexas e realizar operações de transformação nos dados para atender às necessidades específicas de relatórios e análises.<br><br>
+Resultados: Capacidade de realizar análises e consultas complexas voltadas a operações de transformação em dados, visando atender às necessidades específicas de cada setor solicitante<br /><br />
 </div>
 
 ##  Estatísticas do perfil:
