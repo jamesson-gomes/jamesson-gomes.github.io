@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Jamesson Gomes
-nav_exclude: false
+nav_exclude: true
 seo:
   type: website
   name: Jamesson Amaral Gomes
