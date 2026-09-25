@@ -9,7 +9,9 @@ seo:
 
 # Jamesson Amaral Gomes
 ## Analista de Dados Senior
-![Certificações](Projetos/img/qrcode.png)
+<!---![Certificações](Projetos/img/qrcode.png)-->
+![Certificações](Projetos/img/Imagem.jpg)
+
 
 Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes) 
