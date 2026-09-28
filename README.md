@@ -2,18 +2,18 @@
   <div style="flex: 1; padding: 2rem;">
     <h1>Jamesson Gomes</h1>
     <p>Data & Design Specialist apaixonado por experiências digitais.</p>
-    <a href="#portfolio" style="display: inline-block; padding: 0.75rem 1.5rem; background-color: #0078D4; color: white; border-radius: 6px; text-decoration: none;">Explore Work</a>
+    <a href="#portfolio" style="display: inline-block; padding: 0.75rem 1.5rem; background-color: #0078D4; color: white; border-radius: 6px; text-decoration: none;">Certificações</a>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="/assets/images/profile.jpg" alt="Jamesson Gomes" style="max-width: 80%; border-radius: 8px;">
+    <img src="/Projetos/img/Imagem.jpg" alt="Jamesson Gomes" style="max-width: 80%; border-radius: 8px;">
   </div>
 </div>
-# Olá, bem-vindo ao meu site!
+# Olá, bem-vindo!
 
 Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com)<br>
 
-
+[![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-ready-8A2BE2?style=for-the-badge&logo=openai)](https://codex.chat)
 
 </a>
 
