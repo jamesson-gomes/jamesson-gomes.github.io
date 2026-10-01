@@ -73,11 +73,11 @@ Resultados: Extração de insights e padrões preditivos de grandes conjuntos de
 Resultados: Criação de painéis de visualização de dados com Power BI e Looker Studio, de forma clara e intuitiva com informações e indicadores relevantes para os usuários finais.
 </div>
 <br>
-### SSP São Luís/MA (2014 – 2023).
+### SSP São Luís/MA (2016 – 2023).
 
 <div align="justify">
 
-- Analista de Dados/Administrativo, acompanhamento de processos administrativos e demais rotinas de Departamento Pessoal, além de ter desenvolvido aplicações para publicação de relatórios estatísticos, informativos no período de 2014 a 2019. Analista de Dados com experiência na elaboração de relatórios, monitoramento de indicadores, extração de dados via sistemas desde 2019, com diversas ferramentas como: Power BI, Power Apps, Excel – Avançado (Power Query e Power Pivot) e demais soluções do Azure.  <br><br>
+- Analista de Dados/Administrativo, acompanhamento de processos administrativos e demais rotinas de Departamento Pessoal, além de ter desenvolvido aplicações para publicação de relatórios estatísticos, informativos no período de 2016 a 2019. Analista de Dados com experiência na elaboração de relatórios, monitoramento de indicadores, extração de dados via sistemas desde 2019, com diversas ferramentas como: Power BI, Power Apps, Excel – Avançado (Power Query e Power Pivot) e demais soluções do Azure.  <br><br>
 Resultados: Desenvolvimento de análises e consultas complexas voltadas a operações de transformação em dados, visando atender às necessidades específicas de cada setor solicitante.
 <br /><br />
 </div>
