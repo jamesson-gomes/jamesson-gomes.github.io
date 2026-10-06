@@ -12,7 +12,7 @@ seo:
 
 ### Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.nasa@gmail.com) 
 ![Telefone](https://img.shields.io/badge/Telefone-98.987014166-000000?style=for-the-badge&logo=ai)
 [![research](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamesson-Gomes)
 
@@ -52,7 +52,7 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 ## 🎓 Formação:
 * **Pós-graduado em Ciência de Dados/Faculdade Metroplitana** (2022).
 * **Bacharel em Ciência da Computação/UFMA** (2016).
-* **Inglês: Intermediário - EF SET English Certificate (B1 Intermediate-2025)**.  
+* **Inglês: Intermediário - EF SET English Certificate B1 Intermediate**(2025).  
 
 
 
