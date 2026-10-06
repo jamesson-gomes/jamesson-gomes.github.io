@@ -87,6 +87,12 @@ Resultados: Desenvolvimento de análises e consultas complexas voltadas a opera�
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamesson-gomes&theme=solarized_dark)](#)
 
+<hr>
+<footer style="text-align:center; margin-top:20px; font-size:14px; color:#555;">
+  Última atualização: Outubro 2026
+</footer>
+
+
 <br>
 <div align="center">
 
