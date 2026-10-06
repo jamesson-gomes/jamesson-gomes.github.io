@@ -16,23 +16,25 @@ seo:
 
 Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com)
-[![research](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamesson-Gomes)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.usaf@gmail.com) 
+![Telefone](https://img.shields.io/badge/Telefone-98.987014166-8A2BE2?style=for-the-badge&logo=ai)
  
 
 ## Sobre mim:
 - Interesses: I.A., Ciência de Dados, Geotecnologias e Meio Ambiente.
 <div align="justify">
 
-Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Tecnologias, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
+Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Inovação, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
 </div>
 <br>
 
 ##  Tecnologias e Ferramentas:
 
-| Linguagens | A.I. & M.L. | Ferramentas  |
-| ---------- | -------------- | ----------- |
+| Linguagens | A.I. & M.L. | Ferramentas  | Artigos  |
+| ---------- | -------------- | ----------- | ---------- | 
 | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)   | 
+[![research](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamesson-Gomes)
+|
 
 <!-- ## 🚀 Projetos:
 
