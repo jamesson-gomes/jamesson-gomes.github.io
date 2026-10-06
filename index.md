@@ -52,8 +52,8 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 ## 🎓 Formação:
 * **Pós-graduado em Ciência de Dados/Faculdade Metroplitana** (2022).
 * **Bacharel em Ciência da Computação/UFMA** (2016).
-* **Inglês: Intermediário - EF SET English Certificate B1 Intermediate**(2025).  
 
+* **Inglês: Intermediário - EF SET English Certificate B1 Intermediate**(2025). [🔗 Ver certificado](https://cert.staging.efset.org/en/yqU81Y)
 
 
 ## 💼 Experiência Profissional:
@@ -83,7 +83,7 @@ Resultados: Desenvolvimento de análises e consultas complexas voltadas a opera�
 <br /><br />
 </div>
 
-##  Estatísticas do perfil:
+## 📊 Estatísticas do perfil:
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jamesson-gomes&theme=solarized_dark)](#)
 
