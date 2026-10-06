@@ -28,7 +28,7 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
 
 | Linguagens | A.I. & M.L. | Ferramentas  |  Certificações |
 | ---------- | -------------- | ----------- | -----------  | 
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![Certificações](Projetos/img/Imagem.jpg)| 
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)  ![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |  ![Ollama](https://img.shields.io/badge/Ollama-fff?logo=ollama&logoColor=000) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white)](#) [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)| ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | [![Certificações](Projetos/img/Imagem.jpg)](https://www.linkedin.com/in/jamesson-gomes/details/certifications/) | 
 
 
 <!---![Certificações](Projetos/img/qrcode.png)-->
@@ -49,14 +49,14 @@ Com mais de 10 anos de experiência em projetos de diferentes segmentos de atua�
  </div>
 <br>
 -->
-## 🎓 Formação
+## 🎓 Formação:
 * **Pós-graduado em Ciência de Dados/Faculdade Metroplitana** (2022).
 * **Bacharel em Ciência da Computação/UFMA** (2016).
-* **Inglês: Intermediário - EF SET English Certificate (B1 Intermediate)**.  
+* **Inglês: Intermediário - EF SET English Certificate (B1 Intermediate-2025)**.  
 
 
 
-## 💼 Experiência Profissional
+## 💼 Experiência Profissional:
 
 ### Instituto Tecnológico Vale - Belém/PA (2025 - 2026).
 <div align="justify">
