@@ -13,14 +13,14 @@ seo:
 ### Contatos:  
 [![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamesson-gomes) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesson.nasa@gmail.com) 
-![Telefone](https://img.shields.io/badge/Telefone-98--987014166-000000?style=for-the-badge&logo=ai)
+![Telefone](https://img.shields.io/badge/Telefone:-98--987014166-000000?style=for-the-badge&logo=ai)
 [![research](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Jamesson-Gomes)
 
 ## Sobre mim:
-- Interesses: I.A., Ciência de Dados, Geotecnologias e Meio Ambiente.
+- Interesses: I.A. Generativa, Ciência de Dados, Geotecnologias e Meio Ambiente.
 <div align="justify">
 
-Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Inovação, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e  a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
+Com mais de 10 anos de experiência em projetos de diferentes segmentos de atuação (Inovação, Educação, Saúde, Meio Ambiente, etc.). Trabalho atualmente em pesquisas interdisciplinares direcionadas a integração e a extração de conhecimento de conjuntos de dados nas áreas de Mudança do Clima, Recuperação Ambiental e Sustentabilidade com utilização de Geotecnologias (QGIS, ArcGIS, Google Earth Engine, etc). Atuo também na operacionalização de processos em sistemas de diferentes plataformas e com a criação de aplicações focadas em Data Analytics e Business Intelligence. Desenvolvo atividades ETL e Data Visualization, com diversas ferramentas como: Microsoft Fabric, Power BI, Azure Data Factory e demais soluções em nuvem da Microsoft e GCP. Possuo sólida experiência no uso de SQL, Python, R, DAX aplicados ao uso de diversos bancos de dados públicos e privados.  
 </div>
 <br>
 
