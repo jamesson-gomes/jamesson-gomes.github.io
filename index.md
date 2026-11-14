@@ -6,7 +6,12 @@ seo:
   type: website
   name: Jamesson Amaral Gomes
 ---
-
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #121212;
+    color: white;
+  }
+}
 # Jamesson Amaral Gomes
 ## Analista de Dados Senior
 
